@@ -114,9 +114,9 @@ var hoge = function (selector) {
 
 ## リンク
 
-![yahoo!](http://k.yimg.jp/images/top/sp2/cmn/logo-ns-131205.png)
+![image](https://raw.githubusercontent.com/muratas/lorem-ipsum/master/images/image.jpg)
 
-[yahoo!](//yahoo.co.jp "yahoo.co.jp")
+[hatena](//hatena.ne.jp "hatena.ne.jp")
 
 ---
 
