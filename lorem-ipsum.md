@@ -132,3 +132,25 @@ var hoge = function (selector) {
 | aligned    |     aligned |   aligned    |
 
 ---
+
+# 定義リスト
+
+<dl>
+  <dt>会期</dt>
+  <dd>2019年11月25日（月）～12月25日（水）</dd>
+  <dt>時間</dt>
+  <dd>11:00-19:00</dd>
+</dl>
+
+<dl>
+  <div>
+    <dt>会期</dt>
+    <dd>2019年11月25日（月）～12月25日（水）</dd>
+  </div>
+  <div>
+    <dt>時間</dt>
+    <dd>11:00-19:00</dd>
+  </div>
+</dl>
+
+---
